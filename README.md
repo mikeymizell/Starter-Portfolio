@@ -16,10 +16,12 @@ Overall, I feel as if I did solid. I don't feel I excelled but I would love to l
 
 ### Overview of website: 
 
-![CTA section/Header](./assets/images/desktop-ss.png)
+[Portfolio](https://mikeymizell.github.io/Starter-Portfolio/)
 
-![Projects section](./assets/images/projects-ss.png)
+![CTA section/Header](/assets/images/desktop-ss.png)
 
-![980px](./assets/images/980px-ss.png)
+![Projects section](/assets/images/projects-ss.png)
 
-![575px](./assets/images/575px-ss.png)
+![980px](/assets/images/980px-ss.png)
+
+![575px](/assets/images/575px-ss.png)
