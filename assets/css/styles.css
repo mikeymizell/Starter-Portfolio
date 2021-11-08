@@ -136,6 +136,12 @@ header nav ul li a {
     padding-right: 100px;
 }
 
+.ace {
+    background-image: url("../images/ace-fp.png");
+    background-size: 140%;
+    background-position: center;
+}
+
 .flex {
     display: flex;
     justify-content: center;
